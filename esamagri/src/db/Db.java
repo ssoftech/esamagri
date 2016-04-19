@@ -7,7 +7,7 @@ public class Db {
 	static String Driver="com.mysql.jdbc.Driver";
 	static String url="jdbc:mysql://localhost/Shopping";
 	static String username="root";
-	static String password="root";
+	static String password="root1";
     
 
 	public static Connection Condb()

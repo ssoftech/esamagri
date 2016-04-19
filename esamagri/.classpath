@@ -15,5 +15,8 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jasperreports-6.2.0.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mail.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
