@@ -22,10 +22,10 @@ import db.Db;
 @WebServlet("/admin_image")
 public class admin_image extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
+		System.out.println("Demo for 1st commit");
 		try {
 					
 			
